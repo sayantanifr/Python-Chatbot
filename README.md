@@ -8,9 +8,6 @@ A beginner-friendly rule-based chatbot built with Python.
 - Exits on "bye"
 - Handles unknown inputs
 
-## Screenshot
-![Chatbot Demo](chatbot-demo.jpg)
-
 ## Technologies Used
 - Python
 

@@ -11,35 +11,11 @@ A beginner-friendly rule-based chatbot built with Python.
 ## Technologies Used
 - Python
 
-## How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/Basic-Chatbot.git
-```
-
-2. Navigate to the project:
-```bash
-cd Basic-Chatbot
-```
-
-3. Run the program:
-```bash
-python chatbot.py
-```
-
-## Example
-
-```
-You: hello
-ChatBot: Hi!
-
-You: how are you
-ChatBot: I'm fine, thanks!
-
-You: bye
-ChatBot: Goodbye!
-```
+## Concepts Practiced
+- if-elif statements
+- while loops
+- functions
+- input/output
 
 ## License
 This project is licensed under the MIT License.

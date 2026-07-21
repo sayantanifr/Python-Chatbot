@@ -8,7 +8,7 @@ A beginner-friendly rule-based chatbot built with Python.
 - Exits on "bye"
 - Handles unknown inputs
 
-  ## Screenshot
+## Screenshot
 ![Chatbot Demo](chatbot-demo.jpg)
 
 ## Technologies Used
@@ -19,6 +19,15 @@ A beginner-friendly rule-based chatbot built with Python.
 - while loops
 - functions
 - input/output
+
+  ## Project Structure
+```
+Python-Chatbot/
+├── chatbot.py          # Main chatbot program
+├── README.md           # Project documentation
+├── LICENSE             # MIT License
+└── chatbot-demo.jpg    # Screenshot of the chatbot
+```
 
 ## License
 This project is licensed under the MIT License.

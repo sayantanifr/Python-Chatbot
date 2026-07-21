@@ -9,7 +9,7 @@ A beginner-friendly rule-based chatbot built with Python.
 - Handles unknown inputs
 
   ## Screenshot
-![Chatbot Demo](chatbot-demo.png)
+![Chatbot Demo](chatbot-demo.jpg)
 
 ## Technologies Used
 - Python
